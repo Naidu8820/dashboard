@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+   
+}
+.col-sm{
+    border: 3px solid black;
+    border-radius:10px ;
+    box-shadow: 0 4px 8px black;
+    margin: 5px;
+    background-color: rgb(36, 34, 34);
+   margin-bottom: 15px;
+    color: white;
+}
+.col-sm img{
+    transition: all;
+    
+}
+.col-sm img :hover{
+    transform: scaleX(0.5);
+}
+.col-sm :hover{
+    transform: translateY(-10px) ;
+    box-shadow:0 8px 16px black ;
+}
+.boxs{
+    margin-top: 100px;
+}
+
+
+
+
+
+    
+    
+
+
